@@ -18,7 +18,7 @@
 <br />
 <br />
 
-### Within the scope of my data analyst training program, I completed an educational project.
+### Within the scope of my data analyst training program, I completed an educational projects:
 
 | Project name | Description |  Libraries |
 | :---------------------- | :---------------------- | :---------------------- |
